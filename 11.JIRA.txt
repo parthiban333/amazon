@@ -11,7 +11,7 @@ How to open an account in JIRA:
 --> Create an account
 --> Select Scrum
 --> Enter Project Name
-
+new features added inthe login page
 How to Create an Bug:
 -----------------------------
 --> Click Create or + Button
